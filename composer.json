@@ -1,0 +1,17 @@
+{
+    "name": "kesleymartins/php-and-tdd",
+    "autoload": {
+        "psr-4": {
+            "Alura\\Leilao\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kesleymartins",
+            "email": "kesley.martins@vivaldi.net"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.0"
+    }
+}
